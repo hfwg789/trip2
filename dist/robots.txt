@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shanhe-travel-guide.genial-lion-4807.chatgpt.site/sitemap.xml
